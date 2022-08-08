@@ -1,4 +1,4 @@
-Clk = [1 0 0 1 0 0 1];
+Clk = [1 0 0 1 0 0 0];
 D = [1 1 0 0 0 1 1];
 for index=1:length(Clk)
         if Clk(index)==1
